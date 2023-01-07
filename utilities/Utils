@@ -1,0 +1,5 @@
+let LinkAnimations = "hover:text-white transition-all ease-in hover:scale-110 duration-300"
+
+let IconSize = 36
+let IconStyle = "p-2 shadow-lg rounded-full justify-center items-center"
+export { LinkAnimations, IconSize, IconStyle } 
